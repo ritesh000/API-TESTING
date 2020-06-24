@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9973" started-at="2020-06-24T07:40:53Z" finished-at="2020-06-24T07:41:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9973" started-at="2020-06-24T07:40:53Z" finished-at="2020-06-24T07:41:03Z">
+      <class name="com.restapi.testing.APItesting.Test01_GET">
+        <test-method status="PASS" signature="test_01()[pri:0, instance:com.restapi.testing.APItesting.Test01_GET@62ee68d8]" name="test_01" duration-ms="8337" started-at="2020-06-24T13:10:53Z" finished-at="2020-06-24T13:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01 -->
+        <test-method status="PASS" signature="test_02()[pri:0, instance:com.restapi.testing.APItesting.Test01_GET@62ee68d8]" name="test_02" duration-ms="1602" started-at="2020-06-24T13:11:01Z" finished-at="2020-06-24T13:11:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02 -->
+      </class> <!-- com.restapi.testing.APItesting.Test01_GET -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
